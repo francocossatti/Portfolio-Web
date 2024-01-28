@@ -39,7 +39,7 @@ const AboutSection = () => {
             <br />
             <p>
             I study at the Universidad Tecnologica in Fray Bentos, and I am in my 
-            third year of my degree, with the objective of graduating with a bachelor's 
+            third year of my degree, with the objective of graduating with a bachelor&apos;s 
             degree.
             </p>
             <br />
