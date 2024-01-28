@@ -49,7 +49,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I believe that <span className="font-bold text-teal-500">no one should stop pursuing their dreams</span>
+              I believe that <span className="font-bold text-teal-500"> no one should stop pursuing their dreams</span>
               and that&apos;s why I like to help others achieve theirs as well.   🙂
             </p>
           </div>
