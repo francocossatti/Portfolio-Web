@@ -30,31 +30,26 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-              Hi, my name is Franco and I am a{" "}
-              <span className="font-bold">{"highly ambitious"}</span>,
-              <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> programmer
-              based in Colonia, Uruguay.
+              Hi, my name is Franco and I am a <span className="font-bold">highly ambitious</span>,
+              <span className="font-bold">self-motivated</span>, and <span className="font-bold">driven</span>
+              programmer based in Colonia, Uruguay.
             </p>
             <br />
             <p>
-            I study at the Universidad Tecnologica in Fray Bentos, and I am in my 
-            third year of my degree, with the objective of graduating with a bachelor&apos;s 
-            degree.
+              I study at the Universidad Tecnologica in Fray Bentos, and I am in my 
+              third year of my degree, with the objective of graduating with a bachelor&apos;s 
+              degree.
             </p>
             <br />
             <p>
-            I have a lot of hobbies but my favorites are playing video games, watching 
-            movies, reading, and although it seems strange (or maybe not) I also have as 
-            a hobby programming things of personal interest, in the process I have made use 
-            of many different technologies and I would love to apply that knowledge in the work field.
+              I have a lot of hobbies but my favorites are playing video games, watching 
+              movies, reading, and although it seems strange (or maybe not) I also have as 
+              a hobby programming things of personal interest, in the process I have made use 
+              of many different technologies and I would love to apply that knowledge in the work field.
             </p>
             <br />
             <p>
-              I believe that{" "}
-              <span className="font-bold text-teal-500">
-                no one should stop pursuing their dreams
-              </span>{" "}
+              I believe that <span className="font-bold text-teal-500">no one should stop pursuing their dreams</span>
               and that&apos;s why I like to help others achieve theirs as well.   🙂
             </p>
           </div>
