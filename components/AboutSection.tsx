@@ -12,7 +12,7 @@ const skills = [
   { skill: "Tailwind CSS" },
   { skill: "Git" },
   { skill: "GitHub" },
-  { skill: "Jupyter Notebooks" },
+  { skill: "JAVA" },
 ]
 
 const AboutSection = () => {
@@ -55,7 +55,7 @@ const AboutSection = () => {
               <span className="font-bold text-teal-500">
                 no one should stop pursuing their dreams
               </span>{" "}
-              and that&#39;s why I like to help others achieve theirs as well.   🙂
+              and that&apos;s why I like to help others achieve theirs as well.   🙂
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
