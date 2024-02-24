@@ -13,18 +13,18 @@ const projects = [
     link: "https://game-finder-ten.vercel.app",
   },
   {
-    name: "Project 2",
-    description: "Example",
-    image: "/platoio.png",
-    github: "",
-    link: "",
+    name: "Contact Directory",
+    description: "A website to search for contacts, made with Next.js, Material UI, PostgreSQL and NextAuth.js.",
+    image: "/project2.png",
+    github: "https://github.com/francocossatti/contact-directory",
+    link: "https://contact-directory-jade.vercel.app/",
   },
   {
-    name: "Project 3",
-    description: "Example.",
-    image: "/familyphotos.png",
-    github: "",
-    link: "",
+    name: "Currency App",
+    description: "A Uruguayan currency converter.",
+    image: "/project3.png",
+    github: "https://github.com/francocossatti/currency-app",
+    link: "https://currency-app-pied.vercel.app/",
   },
 ]
 
