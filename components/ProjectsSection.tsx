@@ -7,7 +7,7 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 const projects = [
   {
     name: "Game Finder",
-    description: "A website to search for games information.",
+    description: "A website to search for games information, made with Next.js, Tailwind, and IGDB API.",
     image: "/project1.png",
     github: "https://github.com/francocossatti/GameFinder/",
     link: "https://game-finder-ten.vercel.app",
@@ -21,7 +21,7 @@ const projects = [
   },
   {
     name: "Currency App",
-    description: "A Uruguayan currency converter.",
+    description: "A Uruguayan currency converter, made with Next.js, Material UI and Currency API.",
     image: "/project3.png",
     github: "https://github.com/francocossatti/currency-app",
     link: "https://currency-app-pied.vercel.app/",
